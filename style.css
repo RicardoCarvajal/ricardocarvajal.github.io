@@ -1,0 +1,19 @@
+section{
+    color: blue;
+}
+
+.name_main{
+    background: gray;
+}
+
+.name_main:hover{
+    background: goldenrod;
+}
+
+h2::before{
+    content: "🚀 ";
+}
+
+div li{
+    color: black;
+}
